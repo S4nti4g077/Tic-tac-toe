@@ -176,4 +176,137 @@ const check = () => {
   ) {
     console.log("X WINS!!!!!");
   }
+  if (
+    button1.innerHTML === "X" &&
+    button4.innerHTML === "X" &&
+    button7.innerHTML === "X"
+  ) {
+    console.log("X WINS!!!!!");
+  }
+  if (
+    button2.innerHTML === "X" &&
+    button5.innerHTML === "X" &&
+    button8.innerHTML === "X"
+  ) {
+    console.log("X WINS!!!!!");
+  }
+  if (
+    button3.innerHTML === "X" &&
+    button6.innerHTML === "X" &&
+    button9.innerHTML === "X"
+  ) {
+    console.log("X WINS!!!!!");
+  }
+  if (
+    button1.innerHTML === "X" &&
+    button4.innerHTML === "X" &&
+    button7.innerHTML === "X"
+  ) {
+    console.log("X WINS!!!!!");
+  }
+  if (
+    button2.innerHTML === "X" &&
+    button5.innerHTML === "X" &&
+    button8.innerHTML === "X"
+  ) {
+    console.log("X WINS!!!!!");
+  }
+  if (
+    button3.innerHTML === "X" &&
+    button6.innerHTML === "X" &&
+    button9.innerHTML === "X"
+  ) {
+    console.log("X WINS!!!!!");
+  }
+  if (
+    button1.innerHTML === "O" &&
+    button4.innerHTML === "O" &&
+    button7.innerHTML === "O"
+  ) {
+    console.log("O WINS!!!!!");
+  }
+  if (
+    button2.innerHTML === "O" &&
+    button5.innerHTML === "O" &&
+    button8.innerHTML === "O"
+  ) {
+    console.log("O WINS!!!!!");
+  }
+  if (
+    button3.innerHTML === "O" &&
+    button6.innerHTML === "O" &&
+    button9.innerHTML === "O"
+  ) {
+    console.log("O WINS!!!!!");
+  }
+  if (
+    button1.innerHTML === "X" &&
+    button2.innerHTML === "X" &&
+    button3.innerHTML === "X"
+  ) {
+    console.log("X WINS!!!!!");
+  }
+  if (
+    button4.innerHTML === "X" &&
+    button5.innerHTML === "X" &&
+    button6.innerHTML === "X"
+  ) {
+    console.log("X WINS!!!!!");
+  }
+  if (
+    button7.innerHTML === "X" &&
+    button8.innerHTML === "X" &&
+    button9.innerHTML === "X"
+  ) {
+    console.log("X WINS!!!!!");
+  }
+  if (
+    button1.innerHTML === "O" &&
+    button2.innerHTML === "O" &&
+    button3.innerHTML === "O"
+  ) {
+    console.log("O WINS!!!!!");
+  }
+  if (
+    button4.innerHTML === "O" &&
+    button5.innerHTML === "O" &&
+    button6.innerHTML === "O"
+  ) {
+    console.log("O WINS!!!!!");
+  }
+  if (
+    button7.innerHTML === "O" &&
+    button8.innerHTML === "O" &&
+    button9.innerHTML === "O"
+  ) {
+    console.log("O WINS!!!!!");
+  }
+  if (
+    button1.innerHTML === "X" &&
+    button5.innerHTML === "X" &&
+    button7.innerHTML === "X"
+  ) {
+    console.log("X WINS!!!!!");
+  }
+  if (
+    button7.innerHTML === "X" &&
+    button5.innerHTML === "X" &&
+    button3.innerHTML === "X"
+  ) {
+    console.log("X WINS!!!!!");
+  }
+  if (
+    button1.innerHTML === "O" &&
+    button5.innerHTML === "O" &&
+    button7.innerHTML === "O"
+  ) {
+    console.log("O WINS!!!!!");
+  }
+  if (
+    button7.innerHTML === "O" &&
+    button5.innerHTML === "O" &&
+    button3.innerHTML === "O"
+  ) {
+    console.log("O WINS!!!!!");
+  }
 };
